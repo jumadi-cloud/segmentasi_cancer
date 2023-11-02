@@ -6,3 +6,5 @@ Link
 Teknis: https://www.youtube.com/watch?v=n_eMARPqBZI
 
 train model: https://www.youtube.com/watch?v=ybh9p3QOYrs
+
+https://teachablemachine.withgoogle.com/
